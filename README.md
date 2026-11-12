@@ -13,7 +13,7 @@ I turn satellite, aerial and drone imagery into maps and numbers people can trus
 
 ## Featured projects
 
-All built from public data, with code, tests and write-ups. Click a picture for the repository.
+All built from public data, with code, tests and write-ups, and with an AI coding assistant (Claude Code); each repository says so. Click a picture for the repository.
 
 <table>
 <tr>
